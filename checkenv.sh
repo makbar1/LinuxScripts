@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-env > saveenv
+env > /home/pi/saveenv
