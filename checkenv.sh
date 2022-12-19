@@ -1,4 +1,4 @@
 #!/bin/bash
 #
 whoami
-env > /home/pi/saveenv
+env > /home/pi/jenkins/saveenv
